@@ -8,3 +8,4 @@ out
 gen
 MLOps
 .DS_Store
+.ipynb_checkpoints
